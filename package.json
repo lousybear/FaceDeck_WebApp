@@ -1,0 +1,15 @@
+{
+  "name": "face-net",
+  "version": "1.0.0",
+  "description": "A face recognizer for ashish",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashish Kumar Senapati",
+  "license": "ISC"
+}
